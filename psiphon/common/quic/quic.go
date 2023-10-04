@@ -21,7 +21,7 @@
  */
 
 /*
-Package quic wraps github.com/lucas-clemente/quic-go with net.Listener and
+Package quic wraps github.com/Psiphon-Labs/quic-go with net.Listener and
 net.Conn types that provide a drop-in replacement for net.TCPConn.
 
 Each QUIC connection has exactly one stream, which is the equivilent of a TCP
